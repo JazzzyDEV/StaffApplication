@@ -1,7 +1,4 @@
-# readme
-
-This repository has a few templates for README files and some notes about which type of information you could write on them.
-
+Staff Application Template Online
 
 ## Prepare the content
 
